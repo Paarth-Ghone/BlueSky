@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582454000506",
+    "project_id": "bluesky-d9c9a",
+    "storage_bucket": "bluesky-d9c9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582454000506:android:791cca76456c33054db4c3",
+        "android_client_info": {
+          "package_name": "com.example.book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUTWxHuGz7yABEUdu9WSOGo8lNn1Cl9G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
